@@ -1,2 +1,2 @@
 # decor
-It is an Interior designing website
+An Interior designing website
